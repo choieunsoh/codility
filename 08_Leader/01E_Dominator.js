@@ -9,3 +9,6 @@ function solution(A) {
   }
   return result
 }
+
+var A = [3, 4, 3, 2, 3, -1, 3, 3]
+console.log(`[${A.toString()}]`, solution(A))
