@@ -17,3 +17,9 @@ https://app.codility.com/programmers/lessons/7-stacks_and_queues/fish/
 Determine whether a given string of parentheses (single type) is properly nested.
 
 https://app.codility.com/programmers/lessons/7-stacks_and_queues/nesting/
+
+## 4. StoneWall
+
+Cover "Manhattan skyline" using the minimum number of rectangles.
+
+https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/
