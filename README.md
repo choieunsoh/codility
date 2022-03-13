@@ -23,3 +23,11 @@ https://app.codility.com/programmers/lessons/7-stacks_and_queues/nesting/
 Cover "Manhattan skyline" using the minimum number of rectangles.
 
 https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/
+
+# 8. Leader
+
+## 1. Dominator
+
+Find an index of an array such that its value occurs at more than half of indices in the array.
+
+https://app.codility.com/programmers/lessons/8-leader/dominator/
