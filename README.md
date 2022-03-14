@@ -6,6 +6,14 @@ Find longest sequence of zeros in binary representation of an integer.
 
 https://app.codility.com/programmers/lessons/1-iterations/binary_gap/
 
+# 2. Arrays
+
+## 1. CyclicRotation
+
+Rotate an array to the right by a given number of steps.
+
+https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/
+
 # 7. Stacks and Queues
 
 ## 1. Brackets
