@@ -1,3 +1,11 @@
+# 1. Iterations
+
+## 1. BinaryGap
+
+Find longest sequence of zeros in binary representation of an integer.
+
+https://app.codility.com/programmers/lessons/1-iterations/binary_gap/
+
 # 7. Stacks and Queues
 
 ## 1. Brackets
