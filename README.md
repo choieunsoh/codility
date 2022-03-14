@@ -45,3 +45,9 @@ https://app.codility.com/programmers/lessons/8-leader/equi_leader/
 Given a log of stock prices compute the maximum possible earning.
 
 https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_profit/
+
+## 2. MaxSliceSum
+
+Find a maximum sum of a compact subsequence of array elements.
+
+https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_slice_sum/
