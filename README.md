@@ -37,3 +37,11 @@ https://app.codility.com/programmers/lessons/8-leader/dominator/
 Find the index S such that the leaders of the sequences A[0], A[1], ..., A[S] and A[S + 1], A[S + 2], ..., A[N - 1] are the same.
 
 https://app.codility.com/programmers/lessons/8-leader/equi_leader/
+
+# 9. 09_Maximum Slice Problem
+
+## 1. MaxProfit
+
+Given a log of stock prices compute the maximum possible earning.
+
+https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_profit/
