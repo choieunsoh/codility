@@ -28,6 +28,12 @@ Count minimal number of jumps from position X to Y.
 
 https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/
 
+## 2. PermMissingElem
+
+Find the missing element in a given permutation.
+
+https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/
+
 # 7. Stacks and Queues
 
 ## 1. Brackets
