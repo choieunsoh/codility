@@ -34,6 +34,12 @@ Find the missing element in a given permutation.
 
 https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/
 
+## 3. TapeEquilibrium
+
+Minimize the value |(A[0] + ... + A[P-1]) - (A[P] + ... + A[N-1])|.
+
+https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/
+
 # 7. Stacks and Queues
 
 ## 1. Brackets
