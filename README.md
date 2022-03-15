@@ -20,6 +20,14 @@ Find value that occurs in odd number of elements.
 
 https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/
 
+# 3. Time Complexity
+
+## 1. FrogJmp
+
+Count minimal number of jumps from position X to Y.
+
+https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/
+
 # 7. Stacks and Queues
 
 ## 1. Brackets
