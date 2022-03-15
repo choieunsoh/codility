@@ -40,6 +40,14 @@ Minimize the value |(A[0] + ... + A[P-1]) - (A[P] + ... + A[N-1])|.
 
 https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/
 
+# 4. Counting Elements
+
+## 1. FrogRiverOne
+
+Find the earliest time when a frog can jump to the other side of a river.
+
+https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/
+
 # 7. Stacks and Queues
 
 ## 1. Brackets
