@@ -14,6 +14,12 @@ Rotate an array to the right by a given number of steps.
 
 https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/
 
+## 2. OddOccurrencesInArray
+
+Find value that occurs in odd number of elements.
+
+https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/
+
 # 7. Stacks and Queues
 
 ## 1. Brackets
