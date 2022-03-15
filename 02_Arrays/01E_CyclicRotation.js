@@ -6,15 +6,13 @@ function solution1(A, K) {
   return result
 }
 function solution2(A, K) {
-  const result = []
   // Right > K
   // Left N - K
   K = A.length - (K % A.length)
   return [...A.slice(K, A.length), ...A.slice(0, K)]
 }
 function solution(A, K) {
-  const result = []
-  function gcd(a, b) {
+  const gcd = (a, b) => {
     if (b === 0) return a
     else return gcd(b, a % b)
   }
