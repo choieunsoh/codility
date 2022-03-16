@@ -80,6 +80,12 @@ Compute number of integers divisible by k in range [a..b].
 
 https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/
 
+## 3. GenomicRangeQuery
+
+Find the minimal nucleotide from a range of sequence DNA.
+
+https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/
+
 # 7. Stacks and Queues
 
 ## 1. Brackets
