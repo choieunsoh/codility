@@ -66,6 +66,14 @@ Find the smallest positive integer that does not occur in a given sequence.
 
 https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/
 
+# 5. Prefix Sums
+
+## 1. PassingCars
+
+Count the number of passing cars on the road.
+
+https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/
+
 # 7. Stacks and Queues
 
 ## 1. Brackets
