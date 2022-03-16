@@ -60,6 +60,12 @@ Calculate the values of counters after applying all alternating operations: incr
 
 https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/
 
+## 4. MissingInteger
+
+Find the smallest positive integer that does not occur in a given sequence.
+
+https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/
+
 # 7. Stacks and Queues
 
 ## 1. Brackets
