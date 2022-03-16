@@ -74,6 +74,12 @@ Count the number of passing cars on the road.
 
 https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/
 
+## 2. CountDiv
+
+Compute number of integers divisible by k in range [a..b].
+
+https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/
+
 # 7. Stacks and Queues
 
 ## 1. Brackets
