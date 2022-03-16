@@ -48,6 +48,12 @@ Find the earliest time when a frog can jump to the other side of a river.
 
 https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/
 
+## 2. PermCheck
+
+Check whether array A is a permutation.
+
+https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/
+
 # 7. Stacks and Queues
 
 ## 1. Brackets
