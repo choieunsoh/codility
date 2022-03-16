@@ -54,6 +54,12 @@ Check whether array A is a permutation.
 
 https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/
 
+## 3. MaxCounters
+
+Calculate the values of counters after applying all alternating operations: increase counter by 1; set value of all counters to current maximum.
+
+https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/
+
 # 7. Stacks and Queues
 
 ## 1. Brackets
