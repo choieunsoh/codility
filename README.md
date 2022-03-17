@@ -92,6 +92,14 @@ Find the minimal average of any slice containing at least two elements.
 
 https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/
 
+# 6. Sortings
+
+## 1. Distinct
+
+Compute number of distinct values in an array.
+
+https://app.codility.com/programmers/lessons/6-sorting/distinct/
+
 # 7. Stacks and Queues
 
 ## 1. Brackets
