@@ -9,13 +9,10 @@ function solution(A) {
     } else {
       candidate === a ? size++ : size--
     }
+    //console.log(candidate, a, size, freq)
   }
 
-  let [leader, leaderCount, half] = [
-    candidate,
-    freq[candidate],
-    Math.floor(A.length / 2),
-  ]
+  let [leader, leaderCount] = [candidate, freq[candidate]]
 
   let [result, leftCount, rightCount] = [0, 0, leaderCount]
   for (let i = 0; i < A.length; i++) {
