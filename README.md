@@ -86,6 +86,12 @@ Find the minimal nucleotide from a range of sequence DNA.
 
 https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/
 
+## 4. MinAvgTwoSlice
+
+Find the minimal average of any slice containing at least two elements.
+
+https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/
+
 # 7. Stacks and Queues
 
 ## 1. Brackets
