@@ -106,6 +106,12 @@ Maximize A[P] _ A[Q] _ A[R] for any triplet (P, Q, R).
 
 https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/
 
+## 3. Triangle
+
+Determine whether a triangle can be built from a given set of edges.
+
+https://app.codility.com/programmers/lessons/6-sorting/triangle/
+
 # 7. Stacks and Queues
 
 ## 1. Brackets
