@@ -7,3 +7,4 @@ function solution(A) {
 }
 
 var A = [10, 2, 5, 1, 8, 20]
+console.log(solution(A))

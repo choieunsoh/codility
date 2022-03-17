@@ -112,6 +112,12 @@ Determine whether a triangle can be built from a given set of edges.
 
 https://app.codility.com/programmers/lessons/6-sorting/triangle/
 
+## 4. NumberOfDiscIntersections
+
+Compute the number of intersections in a sequence of discs.
+
+https://app.codility.com/programmers/lessons/6-sorting/number_of_disc_intersections/
+
 # 7. Stacks and Queues
 
 ## 1. Brackets
