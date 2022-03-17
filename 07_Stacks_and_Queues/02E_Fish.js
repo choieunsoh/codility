@@ -19,3 +19,7 @@ function solution(A, B) {
   }
   return alives
 }
+
+var A = [4, 3, 2, 1, 5]
+var B = [0, 1, 0, 0, 0]
+console.log(solution(A, B))

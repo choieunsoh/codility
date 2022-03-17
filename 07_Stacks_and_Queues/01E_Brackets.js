@@ -18,3 +18,9 @@ function solution(S) {
   }
   return stack.length === 0 ? 1 : 0
 }
+
+var S = '{[()()]}'
+console.log(S, solution(S))
+
+var S = '([)()]'
+console.log(S, solution(S))
