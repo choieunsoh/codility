@@ -158,7 +158,7 @@ Find the index S such that the leaders of the sequences A[0], A[1], ..., A[S] an
 
 https://app.codility.com/programmers/lessons/8-leader/equi_leader/
 
-# 9. 09_Maximum Slice Problem
+# 9. Maximum Slice Problem
 
 ## 1. MaxProfit
 
@@ -171,3 +171,9 @@ https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_profit/
 Find a maximum sum of a compact subsequence of array elements.
 
 https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_slice_sum/
+
+## 3. MaxDoubleSliceSum
+
+Find the maximal sum of any double slice.
+
+https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_double_slice_sum/
