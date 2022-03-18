@@ -205,3 +205,11 @@ https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/flag
 There are N chocolates in a circle. Count the number of chocolates you will eat.
 
 https://app.codility.com/programmers/lessons/12-euclidean_algorithm/chocolates_by_numbers/
+
+# 15. Caterpillar method
+
+## 1. AbsDistinct
+
+Compute number of distinct absolute values of sorted array elements.
+
+https://app.codility.com/programmers/lessons/15-caterpillar_method/abs_distinct/
