@@ -213,3 +213,9 @@ https://app.codility.com/programmers/lessons/12-euclidean_algorithm/chocolates_b
 Compute number of distinct absolute values of sorted array elements.
 
 https://app.codility.com/programmers/lessons/15-caterpillar_method/abs_distinct/
+
+## 2. CountDistinctSlices
+
+Count the number of distinct slices (containing only unique numbers).
+
+https://app.codility.com/programmers/lessons/15-caterpillar_method/count_distinct_slices/
