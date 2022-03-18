@@ -177,3 +177,11 @@ https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_slice_s
 Find the maximal sum of any double slice.
 
 https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_double_slice_sum/
+
+# 10. Prime and composite numbers
+
+## 1. CountFactors
+
+Count factors of given number n.
+
+https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/
