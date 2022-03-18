@@ -191,3 +191,17 @@ https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/coun
 Find the minimal perimeter of any rectangle whose area equals N.
 
 https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/min_perimeter_rectangle/
+
+## 3. Flags
+
+Find the maximum number of flags that can be set on mountain peaks.
+
+https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/flags/
+
+# 12. Euclidean algorithm
+
+## 1. ChocolatesByNumbers
+
+There are N chocolates in a circle. Count the number of chocolates you will eat.
+
+https://app.codility.com/programmers/lessons/12-euclidean_algorithm/chocolates_by_numbers/
