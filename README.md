@@ -185,3 +185,9 @@ https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_double_
 Count factors of given number n.
 
 https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/
+
+## 2. MinPerimeterRectangle
+
+Find the minimal perimeter of any rectangle whose area equals N.
+
+https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/min_perimeter_rectangle/
